@@ -14,7 +14,7 @@
 [![Deployed with Render](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render)](https://render.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-[Live Demo](#) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
+[Live Demo](https://zerodha-frontend-psi.vercel.app/) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
 
 </div>
 
